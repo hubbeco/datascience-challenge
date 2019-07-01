@@ -31,7 +31,8 @@ Você precisa desenvolver algoritmos que utilizem os dados disponibilizados e pr
 ### O que será avaliado
 
 - Capacidade de intepretação e resolução de problemas complexos
+- Raciocíno lógico
 - Capacidade de pensar sobre os dados
 - Código da solução proposta
-- E principalmente, a solução demonstrada faz sentido? Poderá ajudar o time a bater sua meta?
+- E principalmente, a solução demonstrada faz sentido? **Poderá ajudar o time a bater sua meta?**
 
