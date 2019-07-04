@@ -17,6 +17,13 @@ Identificar padrões nos dados que possibilitem o time de vendas gerar resultado
 
 Você precisa desenvolver algoritmos que utilizem os dados disponibilizados e produza respostas ou insight que justifique as estratégias propostas.
 
+### Dataset
+
+Você poderá baixar o dataset [aqui](#).
+Ou clonar junto aos arquivos do repositório.
+
+-- Dataset em construção / será disponibilizado antes do dia 10/07.
+
 ### Regras
 
 - Interpretação faz parte do desafio, então não peça nossa ajuda com isso
