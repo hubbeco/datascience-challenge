@@ -5,7 +5,7 @@ BitNews é o nome de um jornal fictício que é distribuído em diversas cidades
 
 Em 2019 uma nova diretoria assumiu o controle do BitNews e desafiou todo o time de negócios e tecnologia a alcançar uma única grande meta:
 
-Aumentar as vendas em 10x.
+Aumentar as vendas em 100%.
 
 ### Entre no jogo
 Se coloque dentro desse time e ajude a BitNews a alcançar seus objetivos.
@@ -13,7 +13,7 @@ Se coloque dentro desse time e ajude a BitNews a alcançar seus objetivos.
 Agora você tem acesso a todo histórico de vendas da BitNews, seus produtos, clientes e também acesso aos mesmos dados de toda  a concorrência do BitNews.
 
 ### Sua missão
-Identificar padrões nos dados que possibilitem o time de vendas gerar resultados 10x maiores. Seu raciocínio sobre dados deve se encerrar com uma tática objetiva sobre o que a equipe deve fazer para atingir a meta.
+Identificar padrões nos dados que possibilitem o time de vendas gerar resultados 100% maiores. Seu raciocínio sobre dados deve se encerrar com uma tática objetiva sobre o que a equipe deve fazer para atingir a meta.
 
 Você precisa desenvolver algoritmos que utilizem os dados disponibilizados e produza respostas ou insight que justifique as estratégias propostas.
 
@@ -22,7 +22,7 @@ Você precisa desenvolver algoritmos que utilizem os dados disponibilizados e pr
 Você poderá baixar o dataset [aqui](#).
 Ou clonar junto aos arquivos do repositório.
 
--- Dataset em construção / será disponibilizado antes do dia 10/07.
+-- Dataset em construção / será disponibilizado antes do dia 12/07.
 
 ### Regras
 
